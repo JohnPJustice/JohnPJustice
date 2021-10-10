@@ -1,3 +1,3 @@
 - 👋 Hi, I’m JP Justice
-- 👀 I’m interested in goalng, .net, python, typescript, CICD, cookie-cutters, 
-- 🌱 I’m currently learning golang, AWS, AZURE, devops
+- 👀 I’m interested in every tech and right now looking into Azure cloud services migrating from AWS. 
+- 🌱 I’m currently learning everything Azure.
