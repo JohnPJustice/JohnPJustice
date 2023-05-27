@@ -1,3 +1,2 @@
 - 👋 Hi, I’m JP Justice
-- 👀 I’m interested in every tech and right now looking into Azure cloud services migrating from AWS. 
-- 🌱 I’m currently learning everything Azure.
+- 👀 I’m interested in every tech.
