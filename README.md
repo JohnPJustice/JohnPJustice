@@ -1,2 +1,2 @@
 - 👋 Hi, I’m JP Justice
-- 👀 I’m interested in every tech.
+- 👀 I’m interested in everything tech.
